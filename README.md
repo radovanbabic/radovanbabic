@@ -17,6 +17,6 @@ I am a backend developer 🔭 currently working mainly on DNS.
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radovanbabic&theme=git-dark)](https://git.io/streak-stats)&nbsp;
-<--
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radovanbabic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 -->
