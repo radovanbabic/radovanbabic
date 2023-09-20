@@ -1,6 +1,6 @@
 ### Welcome to my profile, stranger 💬 My name is Radovan! 👋
 
-I am a backend developer 🔭 currently working mainly on DNS.
+I am a backend developer 🔭 currently working mainly on DNS, content filtering, and various ZTNA security functionality.
 
 ---
 
